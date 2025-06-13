@@ -16,21 +16,23 @@ Heute musste ich lange überlegen, da ich nicht wusste, wie meine Webseite ausse
 
 ## 13.6
 
-- [ ] Die Navigation oben gestalten und verlinken, damit man zu allen wichtigen Abschnitten der Webseite springen kann.
+- [X] Die Navigation oben gestalten und verlinken, damit man zu allen wichtigen Abschnitten der Webseite springen kann.
 - [ ] Texte für "Über mich“, "Schule“ schreiben und sinnvoll in die Blöcke einsetzen.
-- [ ] Bild für den 2 Block(Ein Bild von der Nattur)
-- [ ] Text für "Hobbys" und "Kontakte" schreiben 
+- [X] Bild für den 2 Block(Ein Bild von der Nattur)
+- [X] Text für "Hobbys" und "Kontakte" schreiben 
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
+Heute habe ich sehr viel gemacht. Ich habe den Text über mich und meine Hobbys fertig geschrieben, und man kann ihn jetzt auf der Webseite sehen. Ganz unten auf der Seite kann man mir eine E-Mail schreiben sowie meinen GitHub- und Instagram-Account finden. Ich bin sehr zufrieden mit der heutigen Arbeit. Ich glaube, das wird mein bestes Projekt.
+
 
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
 ## 20.7
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Bild von mir auf der "Über Mich" Seite
+- [ ] Schullaufbahn(Zeitstrahl) beenden
+- [ ] Background color ändern(Ganze Webseite)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 

@@ -117,11 +117,19 @@ height: 800px;
 padding-top: 90px;
 }
 
+.Ich img {
+  display: block;
+  margin: 20px auto;
+  max-width: 200px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
 .Ich p{
   text-align: center;
   color: white;
   font-size: 20px;
-  margin-top: 300px;
+  margin-top: 30px;
   margin-left: 300px;
   margin-right: 300px;
 }
@@ -139,9 +147,54 @@ height: 800px;
 padding-top: 90px;
 }
 
+.timeline-horizontal {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  position: relative;
+}
 
+.timeline-box {
+  background-color: #ffffff;
+  border: 2px solid #2b5dab;
+  border-radius: 12px;
+  padding: 20px;
+  width: 260px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
 
+.timeline-box h3 {
+  color: #2b5dab;
+  margin-bottom: 10px;
+}
 
+.untertitel {
+  margin-bottom: 10px;
+}
+
+.untertitel p {
+  margin: 2px 0;
+  font-size: 1rem;
+  color: #666;
+  font-weight: normal;
+}
+
+.timeline-box p {
+  color: #333;
+  font-size: 0.95rem;
+}
+
+.timeline-connector {
+  font-size: 2rem;
+  color: #2b5dab;
+  align-self: center;
+}
 
 
 

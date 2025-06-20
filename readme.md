@@ -30,20 +30,25 @@ Heute habe ich sehr viel gemacht. Ich habe den Text über mich und meine Hobbys 
 
 ## 20.7
 
-- [ ] Bild von mir auf der "Über Mich" Seite
-- [ ] Schullaufbahn(Zeitstrahl) beenden
+- [X] Bild von mir auf der "Über Mich" Seite
+- [X] Schullaufbahn(Zeitstrahl) beenden
 - [ ] Background color ändern(Ganze Webseite)
 
 ✍️ Heute habe ich... (50-100 Wörter)
-
+Heute habe ich ein Bild von mir auf der "Über mich“ Seite hinzugefügt.
+Den Schulzeitstrahl habe ich erstellt. Ich bin zufrieden mit meiner heutigen Arbeit.
+Ich dachte, ich wäre fertig, aber als ich die Rückmeldungen von den anderen Schülern bekommen habe, wurde mir klar, dass ich beim nächsten Mal noch etwas verbessern muss.
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
 ## 27.7 Abschluss
 
-- [ ] ...
-- [ ] ...
+- [ ] Mehr schreiben zeige den Auftraggeber wer du bist und evtl verlinke deine Projekte noch.
+- [ ] - Inhalt ergänzen (Schullaufbahn) - Texte falls möglich etwas umformulieren (etwas Formeller) - Pfäde zu den Bildern prüfen
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
+
+
 
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
